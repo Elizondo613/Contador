@@ -1,0 +1,12 @@
+h2{
+    margin-left: 120px;
+}
+
+button{
+    background: #5F9DF7;
+    border-radius: 30%;
+}
+
+button:hover{
+    background: #1746A2;
+}
